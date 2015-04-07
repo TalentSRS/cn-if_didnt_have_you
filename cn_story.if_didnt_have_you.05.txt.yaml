@@ -1,0 +1,240 @@
+- chinese: 不懂。
+  english:
+  - Don't understand.
+  type: chinese
+  comment: ! 'Covers: 懂. Cost: 0.0'
+- chinese: 不是我们。
+  english:
+  - It's not us.
+  pinyin: bù shì wǒmen
+  type: chinese
+  comment: ! 'Covers: 我们. Cost: 0.0'
+- chinese: 不要动。
+  english:
+  - Don't move.
+  type: chinese
+  comment: ! 'Covers: 不要. Cost: 0.0'
+- chinese: 对不起，我听不懂。
+  english:
+  - Sorry, I don't understand.
+  type: chinese
+  comment: ! 'Covers: 听不懂. Cost: 0.0'
+- chinese: 他是中国人。
+  english:
+  - He is Chinese.
+  type: chinese
+  comment: ! 'Covers: 中国人. Cost: 0.0'
+- chinese: 他不要给我笔。
+  english:
+  - He doesn't want to give me a pen.
+  type: chinese
+  comment: ! 'Covers: 笔. Cost: 0.0'
+- chinese: 他是个天才。
+  english:
+  - He is a genius.
+  type: chinese
+  comment: ! 'Covers: 天才. Cost: 0.0'
+- chinese: 中国欢迎您！
+  english:
+  - Welcome to China!
+  type: chinese
+  comment: ! 'Covers: 您. Cost: 0.0'
+- chinese: 我在右边。
+  english:
+  - I am on the right.
+  type: chinese
+  comment: ! 'Covers: 右边. Cost: 0.0'
+- chinese: 他在图书馆里。
+  english:
+  - He is in the library.
+  pinyin: tā zài túshūguǎn lǐ
+  type: chinese
+  comment: ! 'Covers: 图书馆. Cost: 0.0'
+- chinese: 他一个人在房间里。
+  english:
+  - He was alone in the room.
+  type: chinese
+  comment: ! 'Covers: 房间. Cost: 0.0'
+- chinese: 他在房间里看书。
+  english:
+  - He is reading in the room.
+  type: chinese
+  comment: ! 'Covers: 看书. Cost: 0.0'
+- chinese: 那时候我不喜欢啤酒。
+  english:
+  - I didn't like beer at that time.
+  type: chinese
+  comment: ! 'Covers: 那时候. Cost: 1.4522218995062446e-2'
+- chinese: 他以前住在这儿。
+  english:
+  - He used to live here.
+  type: chinese
+  comment: ! 'Covers: 住. Cost: 0.0'
+- chinese: 他的脸红了。
+  english:
+  - The man blushed.
+  type: chinese
+  comment: ! 'Covers: 脸红. Cost: 0.0'
+- chinese: 我说了半天，他还是不懂。
+  english:
+  - I talked to him for a long time, but he still didn't understand.
+  type: chinese
+  comment: ! 'Covers: 半天. Cost: 0.0'
+- chinese: 他的母亲坐在他的左边。
+  english:
+  - On his left sat his mother.
+  type: chinese
+  comment: ! 'Covers: 左边. Cost: 5.415064710023285e-3'
+- chinese: 他喜欢拿他的同学开玩笑。
+  english:
+  - He likes playing jokes on his classmates.
+  type: chinese
+  comment: ! 'Covers: 同学. Cost: 0.0'
+- chinese: 大家好吗？
+  english:
+  - How is everyone?
+  type: chinese
+  comment: ! 'Covers: 大家. Cost: 0.0'
+- chinese: 你的钱够吗？
+  english:
+  - Do you have enough money?
+  type: chinese
+  comment: ! 'Covers: 够. Cost: 0.0'
+- chinese: 你到了以后等一会儿。
+  english:
+  - When you get there, wait for a while.
+  type: chinese
+  comment: ! 'Covers: 等一会儿. Cost: 0.0'
+- chinese: 为什么你的钱常常不够？
+  english:
+  - Why do you often not have enough money?
+  type: chinese
+  comment: ! 'Covers: 不够. Cost: 0.0'
+- chinese: 你常常跟他见面吗？
+  english:
+  - Do you meet him often?
+  type: chinese
+  comment: ! 'Covers: 见面. Cost: 0.0'
+- chinese: 你唱的这个歌。
+  english:
+  - This song that you're singing.
+  type: chinese
+  comment: ! 'Covers: 歌. Cost: 0.0'
+- chinese: 我有些东西要给你。
+  english:
+  - I have something to give you.
+  type: chinese
+  comment: ! 'Covers: 有些. Cost: 0.0'
+- chinese: 你收拾好东西了没有？
+  english:
+  - Have you finished packing yet?
+  type: chinese
+  comment: ! 'Covers: 收拾. Cost: 0.0'
+- chinese: 他放下东西，就走了。
+  english:
+  - He put his things down and left.
+  type: chinese
+  comment: ! 'Covers: 放下. Cost: 0.0'
+- chinese: 以后请注意点。
+  english:
+  - Please take more care in the future.
+  pinyin: yǐhòu qǐng zhùyì diǎn
+  type: chinese
+  comment: ! 'Covers: 请. Cost: 0.0'
+- chinese: 他们正在吃苹果。
+  english:
+  - They're eating apples.
+  type: chinese
+  comment: ! 'Covers: 正在. Cost: 0.0'
+- chinese: 他们在大楼前面说话呢。
+  english:
+  - They are in front of the building talking.
+  pinyin: tāmen zài dàlóu qiánmiàn shuōhuà ne
+  type: chinese
+  comment: ! 'Covers: 大楼. Cost: 0.0'
+- chinese: 他们一起去看电影。
+  english:
+  - They go to movies together.
+  type: chinese
+  comment: ! 'Covers: 一起. Cost: 0.0'
+- chinese: 他出去看电影了。 电影好看吗? 好看。
+  english:
+  - He went out to see a movie. How was the movie? Good.
+  type: chinese
+  comment: ! 'Covers: 出去. Cost: 0.0'
+- chinese: 他们应该十点前到。
+  english:
+  - They should arrive by ten o'clock.
+  type: chinese
+  comment: ! 'Covers: 十. Cost: 0.0'
+- chinese: 我们学校有十班。
+  english:
+  - Our school has ten classes.
+  type: chinese
+  comment: ! 'Covers: 班. Cost: 0.0'
+- chinese: 你和我都是这个学校的学生们。
+  english:
+  - You and I are both students at this school.
+  type: chinese
+  comment: ! 'Covers: 们. Cost: 0.0'
+- chinese: 已经过了二十年了。
+  english:
+  - Twenty years already passed.
+  type: chinese
+  comment: ! 'Covers: 二十. Cost: 0.0'
+- chinese: 一个朋友明天要过来。
+  english:
+  - A friend's coming over tomorrow.
+  type: chinese
+  comment: ! 'Covers: 过来. Cost: 0.0'
+- chinese: 一个男人过来问我怎么了。
+  english:
+  - A man came over and asked if I was OK.
+  type: chinese
+  comment: ! 'Covers: 怎么了. Cost: 0.0'
+- chinese: “你去哪儿了？”“我去了火车站送我的一个朋友。”
+  english:
+  - ! '"Where have you been?" "I have been to the station to see a friend off."'
+  type: chinese
+  comment: ! 'Covers: 哪儿. Cost: 0.0'
+- chinese: 门外是两个女鬼!
+  english:
+  - Outside were two female ghosts!
+  pinyin: ! 'ménwài shì liǎng gè nǔ: guǐ'
+  type: chinese
+  comment: ! 'Covers: 门外. Cost: 7.983394539358134e-3'
+- chinese: 今天的报，我还没看呢。
+  english:
+  - I haven't read todays paper yet.
+  type: chinese
+  comment: ! 'Covers: 报. Cost: 0.0'
+- chinese: 我从昨天开始一直忙着。
+  english:
+  - I have been busy since yesterday.
+  type: chinese
+  comment: ! 'Covers: 忙着. Cost: 0.0'
+- chinese: “她的书在那里？”“在桌子上。”
+  english:
+  - ! '"Where is her book?" "It''s on the table."'
+  type: chinese
+  comment: ! 'Covers: 桌子. Cost: 0.0'
+- chinese: 他对很多事情都有兴趣。
+  english:
+  - He's interested in many things.
+  type: chinese
+  comment: ! 'Covers: 有兴趣. Cost: 0.0'
+- chinese: 我以前可能看过这部电影，但是我却不怎么记得了。
+  english:
+  - I may have seen that film before, but I can hardly remember it.
+  type: chinese
+  comment: ! 'Covers: 不怎么. Cost: 6.171315724512467e-3'
+- chinese: 我们九点上课，可是他九点一刻才来。
+  english:
+  - We start class at nine o’clock, but he didn’t come until quarter past.
+  type: chinese
+  comment: ! 'Covers: 刻. Cost: 0.0'
+- chinese: 她歌唱得象小鸟一样快乐。
+  english:
+  - She sing as merrily as a little bird.
+  type: chinese
+  comment: ! 'Covers: 歌唱. Cost: 1.5422578655151141e-2'
