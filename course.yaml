@@ -24,34 +24,25 @@ description: |
   This course covers all of the vocabulary in the 10 chapters.
 
   You can buy the book/ebook here: <http://www.chinesebreeze.net/chinese-breeze/chinese-breeze-level-2/level-2-if-i-didnt-have-you/>
+stencils: cn_story.if_didnt_have_you.txt.yaml
 units:
  - title: 1. 黄小明是个小偷
    content: chapter.md
-   stencils: cn_story.if_didnt_have_you.01.txt.yaml
  - title: 2. 一只眼睛的小三儿
    content: chapter.md
-   stencils: cn_story.if_didnt_have_you.02.txt.yaml
  - title: 3. “我觉得你特别像警察！”
    content: chapter.md
-   stencils: cn_story.if_didnt_have_you.03.txt.yaml
  - title: 4. 一万块钱换两千块？
    content: chapter.md
-   stencils: cn_story.if_didnt_have_you.04.txt.yaml
  - title: 5. 黄小明脸红了，夏雨的脸也红了
    content: chapter.md
-   stencils: cn_story.if_didnt_have_you.05.txt.yaml
  - title: 6. 夏雨的路
    content: chapter.md
-   stencils: cn_story.if_didnt_have_you.06.txt.yaml
  - title: 7. “我是小偷……”
    content: chapter.md
-   stencils: cn_story.if_didnt_have_you.07.txt.yaml
  - title: 8. 问题就在一张小小的光盘里
    content: chapter.md
-   stencils: cn_story.if_didnt_have_you.08.txt.yaml
  - title: 9. “对不起，再见！”
    content: chapter.md
-   stencils: cn_story.if_didnt_have_you.09.txt.yaml
  - title: 10. 如果没有你
    content: chapter.md
-   stencils: cn_story.if_didnt_have_you.10.txt.yaml
